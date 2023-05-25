@@ -7,6 +7,7 @@ Just refreshing some design patterns and learning some python on the way.
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 * [Observer Pattern](./observer-pattern/README.md)
+* [Strategy Pattern](./strategy-pattern/README.md)
 
 ## Structural Patterns
 
