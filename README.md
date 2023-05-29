@@ -9,6 +9,7 @@ Behavioral design patterns are concerned with algorithms and the assignment of r
 * [Observer Pattern](./observer-pattern/README.md): lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 * [Strategy Pattern](./strategy-pattern/README.md): lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.
 * [Iterator Pattern](./iterator-pattern/README.md): lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+* [Memento Pattern](./iterator-pattern/README.md): lets you save and restore the previous state of an object without revealing the details of its implementation.
 
 ## Structural Patterns
 
