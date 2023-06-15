@@ -1,6 +1,6 @@
 # Design Patterns in Python
 
-Just refreshing some design patterns and learning some python on the way.
+Just refreshing some design patterns and learning some python along the way.
 
 ## Behavioral Patterns
 
@@ -17,6 +17,12 @@ Structural design patterns explain how to assemble objects and classes into larg
 
 * [Decorator Pattern](./decorator-pattern/README.md): lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 * [Composite Pattern](./composite-pattern/README.md): lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+
+## Creational Patterns
+
+Creational design patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+
+* [Builder](./builder-pattern/README.md): lets you construct complex objects step by step. The pattern allows you to produce different types and representations of an object using the same construction code.
 
 ## Sources
 
